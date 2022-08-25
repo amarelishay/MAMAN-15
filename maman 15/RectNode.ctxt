@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RectNode
+comment0.text=\r\n\ The\ RectNode\ class\ will\ represent\ a\ node\ in\ a\ linked\ list\ that\ has\ a\ rectangle.\r\n\ Elishay\ Amar\ I.D\ 318840394\r\n
+comment1.params=r
+comment1.target=RectNode(RectangleA)
+comment1.text=\r\n\ A\ constructor\ that\ receives\ a\ rectangle,\ the\ next\ _\ field\ will\ be\ initialized\ to\ null\r\n\ @param\ r\ represents\ the\ rectengle\ that\ the\ method\ recives.\r\n\ @return\ the\ RectNode\ that\ as\ been\ crated.\ \r\n
+comment2.params=r\ n
+comment2.target=RectNode(RectangleA,\ RectNode)
+comment2.text=\r\n\ A\ constructor\ that\ receives\ a\ rectangle\ and\ another\ member\ of\ the\ RectNode\ type,\ and\ initializes\ the\ properties\ according\ to\ the\ parameters.\r\n\ @param\ r\ represents\ the\ rectengle\ that\ the\ method\ recives.\r\n\ @param\ n\ represents\ the\ RectNode\ member\ that\ the\ method\ recives.\r\n\ @return\ the\ RectNode\ that\ as\ been\ crated.\ \r\n
+comment3.params=r
+comment3.target=RectNode(RectNode)
+comment3.text=\r\n\ A\ copy\ constructor\r\n\ @param\ r\ represents\ the\ RectNode\ that\ the\ method\ recives.\r\n\ @return\ the\ RectNode\ that\ as\ been\ crated.\ \r\n
+comment4.params=
+comment4.target=RectangleA\ getRect()
+comment4.text=\r\n\ A\ method\ that\ returns\ a\ copy\ of\ the\ rectangle\ in\ the\ member.\r\n\ @retutn\ a\ copy\ of\ the\ rectangle\ in\ the\ member.\r\n
+comment5.params=
+comment5.target=RectNode\ getNext()
+comment5.text=\r\n\ A\ method\ that\ returns\ a\ pointer\ to\ the\ next\ organ\ in\ the\ list.\r\n\ @return\ a\ pointer\ to\ the\ next\ organ\ in\ the\ list.\r\n
+comment6.params=r
+comment6.target=void\ setRect(RectangleA)
+comment6.text=\r\n\ A\ method\ that\ receives\ a\ rectangle\ and\ updates\ the\ properties\ of\ the\ rectangle\ in\ the\ member.\r\n\ @param\ r\ represents\ the\ rectengle\ that\ the\ method\ recives.\r\n
+comment7.params=next
+comment7.target=void\ setNext(RectNode)
+comment7.text=\r\n\ A\ method\ that\ receives\ a\ pointer\ and\ updates\ the\ pointer\ feature\ to\ the\ next\ organ.\r\n\ @param\ next\ represents\ the\ RectNode\ member\ that\ the\ method\ recives.\r\n
+numComments=8

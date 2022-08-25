@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentTesterMaman15
+comment0.text=\r\n\ This\ is\ a\ basic\ tester\ for\ Maman\ 15\ 2022A.\r\n\ \r\n\ IMPORTANT\ NOTE\:\ This\ tester\ DOES\ NOT\ check\ the\ correctness\ of\ your\ code.\ It\ is\r\n\ only\ intended\ to\ check\ the\ correctness\ of\ youe\ methods\ names\ and\ parameters.\ (to\ make\ sure\r\n\ that\ compilation\ of\ your\ work\ during\ its\ checking\ will\ run\ smoothly).\ \r\n\ \r\n\ @author\ Course\ Staff\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
