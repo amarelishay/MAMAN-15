@@ -1,7 +1,7 @@
 /**
  * The RectList class will represent a linked list of rectangles.
  * The representation is made by a list that keeps track of the list of rectangles.
- * Elishay Amar I.D 318840394
+ * Elishay Amar 
  */
 public class RectList
 {
